@@ -1,5 +1,5 @@
 # hatedetectiontool
-Trabalho de Conclusão de Curso
+Trabalho de Conclusão do Curso de Ciência da Computação na Universidade Federal Rural do Rio de Janeiro (UFRRJ)
 Título: Detecção Automática de Discurso de Ódio em Textos do Twitter
 Orientador: Filipe Braida do Carmo
 Discente: Victor Diniz Augusto Andrade
