@@ -4,6 +4,7 @@ Trabalho de Conclusão do Curso de Ciência da Computação na Universidade Fede
 Título: Detecção Automática de Discurso de Ódio em Textos do Twitter
 
 Orientador: Filipe Braida do Carmo
+
 Discente: Victor Diniz Augusto Andrade
 
 Dataset primário: https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset
